@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Napero :)
 - 🌱 I’m currently studying computer engineering
 - 👀 I'm interested in coding, technology, videogames, science, and more
-- 📫 You can reach out to me on Discord: Napero#0270
+- 📫 You can reach out to me on Discord: @napero
 
 <!---
 Napero/Napero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
