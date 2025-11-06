@@ -2,16 +2,7 @@
   
 # 👋 Hi, I'm Napero (Fran Nappa)
 
-### 🚀 Computer Science Engineering Student | Full-Stack Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Napero)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://napero.github.io)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Napero&color=blueviolet&style=for-the-badge)
-
 </div>
-
----
 
 ## 👨‍💻 About Me
 
@@ -70,29 +61,7 @@ Computer Science Engineering student (4th year) and full-stack developer with ex
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-<a href="https://github.com/Napero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Napero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Napero&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</a>
-
-</div>
-
----
-
 ## 📫 Contact
 
 📧 **Email:** franenappa@gmail.com  
 💬 **Discord:** @napero
-
----
-
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Napero?style=social)](https://github.com/Napero)
-[![GitHub stars](https://img.shields.io/github/stars/Napero?style=social)](https://github.com/Napero)
-
-</div>
