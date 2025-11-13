@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Napero (Fran Nappa)
+# 👋 Hi, I'm Napero (Francisco Nappa)
 
 </div>
 
